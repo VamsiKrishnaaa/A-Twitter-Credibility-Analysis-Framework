@@ -1,0 +1,23 @@
+T-CREo: A Twitter Credibility Analysis Framework
+
+API, Credibilty, Fake News, Information Sources, Twitter, Web Scraping
+
+
+TCREo
+
+tcreo
+
+
+
+Credibility_Prediction
+
+URLs
+Headline
+Body
+Prediction
+
+
+
+
+Credibility_Prediction,detection_ratio,detection_accuracy
+
